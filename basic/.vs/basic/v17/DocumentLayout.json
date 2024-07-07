@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KHJ\\source\\repos\\basic\\",
+  "WorkspaceRootPath": "C:\\Users\\KHJ\\Csharp\\basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C09D84C0-3C6D-4E6F-B29A-A1746FB0E221}|basic\\basic.csproj|c:\\users\\khj\\source\\repos\\basic\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C09D84C0-3C6D-4E6F-B29A-A1746FB0E221}|basic\\basic.csproj|c:\\users\\khj\\csharp\\basic\\basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C09D84C0-3C6D-4E6F-B29A-A1746FB0E221}|basic\\basic.csproj|solutionrelative:basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KHJ\\source\\repos\\basic\\basic\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KHJ\\Csharp\\basic\\basic\\Program.cs",
               "RelativeDocumentMoniker": "basic\\Program.cs",
-              "ToolTip": "C:\\Users\\KHJ\\source\\repos\\basic\\basic\\Program.cs",
+              "ToolTip": "C:\\Users\\KHJ\\Csharp\\basic\\basic\\Program.cs",
               "RelativeToolTip": "basic\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
